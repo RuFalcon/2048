@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e116654ccfa6a314daca9bb0c4c80247, type: 3}
+  m_Name: BallSettings
+  m_EditorClassIdentifier: 
+  BallMaterials:
+  - {fileID: 2100000, guid: 6ec0616069af4bf4085c4987d6e14673, type: 2}
+  - {fileID: 2100000, guid: 5e92afff0a939c44c85fc253599c1e92, type: 2}
+  - {fileID: 2100000, guid: effa401b4f6bbed4bb269a001619ac49, type: 2}
+  - {fileID: 2100000, guid: a5f820cab37bb3f4dae6ff2421f6072b, type: 2}
+  - {fileID: 2100000, guid: 224a887d0d35e8d45ab8a4d7f62b47c4, type: 2}
+  - {fileID: 2100000, guid: e6318aafd2374e043a04f556d35b2929, type: 2}
+  - {fileID: 2100000, guid: c12ee388739be2f48a17786a3be31016, type: 2}
+  - {fileID: 2100000, guid: 6eb6ec6e863c3614881c22dade916c25, type: 2}
+  - {fileID: 2100000, guid: 517d14e11c3bf1545b950bad37fc2c81, type: 2}
+  - {fileID: 2100000, guid: 2c0f23f2c366f844a95b4d91d4b556b4, type: 2}
+  - {fileID: 2100000, guid: 81036c6321d1c274a8c6372f2b43b4d7, type: 2}
+  BallProjectionMaterials:
+  - {fileID: 2100000, guid: 10c32120a781e3a41a344cc6a8417819, type: 2}
+  - {fileID: 2100000, guid: c240bc924d9a96946a6087739da75189, type: 2}
+  - {fileID: 2100000, guid: b3cc8a59b5fccd24fa758e09f4253c29, type: 2}
+  - {fileID: 2100000, guid: e9f93e2003861f84ea90ea8434cfaffc, type: 2}
+  - {fileID: 2100000, guid: bc4e27bbc0d0abd4195b5a014f7182f9, type: 2}
+  - {fileID: 2100000, guid: 31e2e85c53eae7d43a10f2ce1e4879ff, type: 2}
+  - {fileID: 2100000, guid: 96eaf928fa1a2db41bc98ec09d0a59a1, type: 2}
+  - {fileID: 2100000, guid: bc772ddf01daecb438286f1ee7068030, type: 2}
+  - {fileID: 2100000, guid: 9567780df89e9e742879ae3d2e74af0a, type: 2}
+  - {fileID: 2100000, guid: 3cfd3c0cdd39acc4eb586beef673b95f, type: 2}
+  - {fileID: 2100000, guid: 0b52493ae25363346983e87b82a71d7f, type: 2}
